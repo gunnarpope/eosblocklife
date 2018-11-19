@@ -1,0 +1,88 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT Sun Nov 18 16:03:52 2018",
+    "version": "eosio::abi/1.0",
+    "structs": [
+        {
+            "name": "cert",
+            "base": "",
+            "fields": [
+                {
+                    "name": "Key",
+                    "type": "name"
+                },
+                {
+                    "name": "Pubkey",
+                    "type": "int8"
+                },
+                {
+                    "name": "Algo",
+                    "type": "string"
+                },
+                {
+                    "name": "StartDate",
+                    "type": "uint64"
+                },
+                {
+                    "name": "EndDate",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "certify",
+            "base": "",
+            "fields": [
+                {
+                    "name": "user",
+                    "type": "name"
+                },
+                {
+                    "name": "pubkey",
+                    "type": "int8"
+                },
+                {
+                    "name": "algo",
+                    "type": "string"
+                },
+                {
+                    "name": "expires",
+                    "type": "uint64"
+                }
+            ]
+        },
+        {
+            "name": "erase",
+            "base": "",
+            "fields": [
+                {
+                    "name": "user",
+                    "type": "name"
+                }
+            ]
+        }
+    ],
+    "types": [],
+    "actions": [
+        {
+            "name": "certify",
+            "type": "certify",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "erase",
+            "type": "erase",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [
+        {
+            "name": "certificates",
+            "type": "cert",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        }
+    ],
+    "ricardian_clauses": [],
+    "abi_extensions": []
+}

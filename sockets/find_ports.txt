@@ -1,0 +1,5 @@
+# Find a process on port 80
+$ lsof -i tcp:80
+
+# or use:
+$ sudo netstat -nlp

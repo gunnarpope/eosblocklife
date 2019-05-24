@@ -16,6 +16,12 @@ This script will import the snapshot data from the CSV file, filter it by accoun
     zzzzzzzzzzzz
 
 
-## Find which proxy ACCOUNT_NAME is using: 
+## Find all the voters for a proxy 
+	$ python get_proxy_votes.py brockpierce1 eosaccounts.txt 
+	cryptoblueos brockpierce1
 
-    $ cleos -u https://api.eossweden.org get account ACCOUNT_NAME | grep proxy
+The output is saved to a file starting with the proxy name
+
+	$ cat brockpierce1_votes.txt 
+	cryptoblueos
+

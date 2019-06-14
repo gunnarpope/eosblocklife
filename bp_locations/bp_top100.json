@@ -1,0 +1,906 @@
+{
+  "rows": [{
+      "owner": "starteosiobp",
+      "total_votes": "1103791512391006976.00000000000000000",
+      "producer_key": "EOS4wZZXm994byKANLuwHD6tV3R3Mu3ktc41aSVXCBaGnXJZJ4pwF",
+      "is_active": 1,
+      "url": "https://www.starteos.io",
+      "unpaid_blocks": 336,
+      "last_claim_time": "2019-06-14T16:56:12.000",
+      "location": 156
+    },{
+      "owner": "eoshuobipool",
+      "total_votes": "1101148148224750464.00000000000000000",
+      "producer_key": "EOS5XKswW26cR5VQeDGwgNb5aixv1AMcKkdDNrC59KzNSBfnH6TR7",
+      "is_active": 1,
+      "url": "http://eoshuobipool.com",
+      "unpaid_blocks": 5820,
+      "last_claim_time": "2019-06-14T00:55:02.500",
+      "location": 0
+    },{
+      "owner": "eoslaomaocom",
+      "total_votes": "1030772438895053440.00000000000000000",
+      "producer_key": "EOS8QgURqo875qu3a8vgZ58qBeu2cTehe9zAWRfpdCXAQipicu1Fi",
+      "is_active": 1,
+      "url": "https://eoslaomao.com",
+      "unpaid_blocks": 1295,
+      "last_claim_time": "2019-06-14T14:08:03.000",
+      "location": 392
+    },{
+      "owner": "zbeosbp11111",
+      "total_votes": "1004688277762260352.00000000000000000",
+      "producer_key": "EOS7rhgVPWWyfMqjSbNdndtCK8Gkza3xnDbUupsPLMZ6gjfQ4nX81",
+      "is_active": 1,
+      "url": "https://www.zbeos.com",
+      "unpaid_blocks": 3540,
+      "last_claim_time": "2019-06-14T07:36:23.000",
+      "location": 156
+    },{
+      "owner": "eosiomeetone",
+      "total_votes": "958425649170846208.00000000000000000",
+      "producer_key": "EOS5gS4ZtanRS2Jx4vpjAQaVNci3v65iZiGCgMr9DNwu67x2pt8Qd",
+      "is_active": 1,
+      "url": "https://meet.one",
+      "unpaid_blocks": 5639,
+      "last_claim_time": "2019-06-14T01:26:51.000",
+      "location": 702
+    },{
+      "owner": "big.one",
+      "total_votes": "950676839012077184.00000000000000000",
+      "producer_key": "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
+      "is_active": 1,
+      "url": "https://eos.big.one",
+      "unpaid_blocks": 2564,
+      "last_claim_time": "2019-06-13T22:59:08.000",
+      "location": 392
+    },{
+      "owner": "hoo.com",
+      "total_votes": "949150255060007680.00000000000000000",
+      "producer_key": "EOS7Ef2ReXFWYmp1SB1ZzhnhDMfY8NnMZnvo4c51ZxiDf2UE7nCNR",
+      "is_active": 1,
+      "url": "https://hoo.com",
+      "unpaid_blocks": 588,
+      "last_claim_time": "2019-06-14T16:12:00.500",
+      "location": 0
+    },{
+      "owner": "eosinfstones",
+      "total_votes": "947189626628847744.00000000000000000",
+      "producer_key": "EOS6CSvGzNhNxVYbcnWSuheNcfzjGeGBY9trR4YAJ4Yvakq4oCh6y",
+      "is_active": 1,
+      "url": "http://infinitystones.io",
+      "unpaid_blocks": 2746,
+      "last_claim_time": "2019-06-14T09:52:36.000",
+      "location": 1
+    },{
+      "owner": "eossv12eossv",
+      "total_votes": "946107164364098816.00000000000000000",
+      "producer_key": "EOS7fv6nadePJBdCiWyR2Ldz5YWyzJGMBkEo47zUSWFttduQhHHaa",
+      "is_active": 1,
+      "url": "https://eossiliconvalley.io",
+      "unpaid_blocks": 7967,
+      "last_claim_time": "2019-06-13T18:40:24.000",
+      "location": 840
+    },{
+      "owner": "jedaaaaaaaaa",
+      "total_votes": "942914581485390720.00000000000000000",
+      "producer_key": "EOS6nB9Ar5sghWjqk27bszCiA9zxQtXZCaAaEkf2nwUm9iP5MEJTT",
+      "is_active": 1,
+      "url": "https://www.eosjapan.org",
+      "unpaid_blocks": 4885,
+      "last_claim_time": "2019-06-14T03:38:29.500",
+      "location": 392
+    },{
+      "owner": "helloeoscnbp",
+      "total_votes": "931317160738132608.00000000000000000",
+      "producer_key": "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
+      "is_active": 1,
+      "url": "https://www.helloeos.com.cn",
+      "unpaid_blocks": 7938,
+      "last_claim_time": "2019-06-13T18:45:57.000",
+      "location": 156
+    },{
+      "owner": "eosbeijingbp",
+      "total_votes": "928585381794452992.00000000000000000",
+      "producer_key": "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
+      "is_active": 1,
+      "url": "https://www.eosbeijing.one",
+      "unpaid_blocks": 1584,
+      "last_claim_time": "2019-06-14T13:16:21.000",
+      "location": 392
+    },{
+      "owner": "atticlabeosb",
+      "total_votes": "928262823994798336.00000000000000000",
+      "producer_key": "EOS7PfA3A4UdfMu2wKbuXdbHn8EWAxbMnFoFWui4X2zsr2oPwdQJP",
+      "is_active": 1,
+      "url": "https://atticlab.net",
+      "unpaid_blocks": 1715,
+      "last_claim_time": "2019-06-14T12:55:02.000",
+      "location": 804
+    },{
+      "owner": "eosflytomars",
+      "total_votes": "927400622784712192.00000000000000000",
+      "producer_key": "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
+      "is_active": 1,
+      "url": "https://www.bitmars.one",
+      "unpaid_blocks": 6140,
+      "last_claim_time": "2019-06-13T23:56:44.000",
+      "location": 156
+    },{
+      "owner": "eosiosg11111",
+      "total_votes": "927125896945339520.00000000000000000",
+      "producer_key": "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
+      "is_active": 1,
+      "url": "https://eosio.sg",
+      "unpaid_blocks": 3888,
+      "last_claim_time": "2019-06-14T06:35:02.500",
+      "location": 702
+    },{
+      "owner": "eosasia11111",
+      "total_votes": "924882050496331008.00000000000000000",
+      "producer_key": "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
+      "is_active": 1,
+      "url": "https://www.eosasia.one",
+      "unpaid_blocks": 2265,
+      "last_claim_time": "2019-06-14T11:20:07.000",
+      "location": 344
+    },{
+      "owner": "eosnewyorkio",
+      "total_votes": "920561434917126144.00000000000000000",
+      "producer_key": "EOS6GVX8eUqC1gN1293B3ivCNbifbr1BT6gzTFaQBXzWH9QNKVM4X",
+      "is_active": 1,
+      "url": "https://bp.eosnewyork.io",
+      "unpaid_blocks": 6849,
+      "last_claim_time": "2019-06-13T21:55:59.000",
+      "location": 184
+    },{
+      "owner": "cochainworld",
+      "total_votes": "916568303018640384.00000000000000000",
+      "producer_key": "EOS5QDSQyh96SmktA28dteEchc1QCVdqKYG4YVDHGGATMYxqy33wi",
+      "is_active": 1,
+      "url": "https://eoscochain.io",
+      "unpaid_blocks": 5134,
+      "last_claim_time": "2019-06-14T02:57:16.500",
+      "location": 156
+    },{
+      "owner": "eoscannonchn",
+      "total_votes": "916304022755281664.00000000000000000",
+      "producer_key": "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
+      "is_active": 1,
+      "url": "https://eoscannon.io",
+      "unpaid_blocks": 2232,
+      "last_claim_time": "2019-06-14T11:23:35.500",
+      "location": 156
+    },{
+      "owner": "whaleex.com",
+      "total_votes": "913792729818637184.00000000000000000",
+      "producer_key": "EOS88EGcFghfQJER1mDaEe4kDJ7MGDoPmXQfA7q2QMTLLqiYP1UQR",
+      "is_active": 1,
+      "url": "https://www.whaleex.com",
+      "unpaid_blocks": 4824,
+      "last_claim_time": "2019-06-14T03:50:30.500",
+      "location": 410
+    },{
+      "owner": "eosauthority",
+      "total_votes": "911344779146051840.00000000000000000",
+      "producer_key": "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
+      "is_active": 1,
+      "url": "https://eosauthority.com",
+      "unpaid_blocks": 2581,
+      "last_claim_time": "2019-06-14T08:25:20.500",
+      "location": 826
+    },{
+      "owner": "bitfinexeos1",
+      "total_votes": "909990049204071168.00000000000000000",
+      "producer_key": "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
+      "is_active": 1,
+      "url": "https://www.bitfinex.com",
+      "unpaid_blocks": 659,
+      "last_claim_time": "2019-06-14T06:04:26.000",
+      "location": 0
+    },{
+      "owner": "eosliquideos",
+      "total_votes": "909596916639120768.00000000000000000",
+      "producer_key": "EOS4v1n2j5kXbCum8LLEc8zQLpeLK9rKVFmsUgLCWgMDN38P6PcrW",
+      "is_active": 1,
+      "url": "http://vote.liquideos.com",
+      "unpaid_blocks": 1068,
+      "last_claim_time": "2019-06-14T07:20:27.500",
+      "location": 376
+    },{
+      "owner": "eos42freedom",
+      "total_votes": "890841968989029120.00000000000000000",
+      "producer_key": "EOS4tw7vH62TcVtMgm2tjXzn9hTuHEBbGPUK2eos42ssY7ip4LTzu",
+      "is_active": 1,
+      "url": "https://www.eos42.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T13:15:02.000",
+      "location": 826
+    },{
+      "owner": "eosdotwikibp",
+      "total_votes": "872473331842524800.00000000000000000",
+      "producer_key": "EOS7RsdDs8k8GDAdZrETnTjoGwiqAwwdNyxeH8q6fmHgpHjPPnyco",
+      "is_active": 1,
+      "url": "https://eos.wiki",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T13:16:56.500",
+      "location": 344
+    },{
+      "owner": "dilidilifans",
+      "total_votes": "832140496979825152.00000000000000000",
+      "producer_key": "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
+      "is_active": 1,
+      "url": "www.dilidili.name",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T03:35:56.500",
+      "location": 702
+    },{
+      "owner": "eosnationftw",
+      "total_votes": "830008835375908352.00000000000000000",
+      "producer_key": "EOS5R5TurHxXhsV71dcxRNJQPQ3tU8brwvFMK6THNUEKSpkzZj1Yd",
+      "is_active": 1,
+      "url": "https://eosnation.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T12:55:01.000",
+      "location": 124
+    },{
+      "owner": "eos.fish",
+      "total_votes": "822907063543582592.00000000000000000",
+      "producer_key": "EOS6iCr1dq6yerKRJe3rL3WCewHEcBS6haBEA8HgWDevmDXEkC2Bt",
+      "is_active": 1,
+      "url": "http://eos.fish",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T18:05:06.000",
+      "location": 0
+    },{
+      "owner": "argentinaeos",
+      "total_votes": "775370746648892416.00000000000000000",
+      "producer_key": "EOS7jq4FHrFrtCXxpRQ39dBeDMa5AjM4VaRbqBECkSa5aZnizJzrx",
+      "is_active": 1,
+      "url": "https://www.eosargentina.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T23:07:24.000",
+      "location": 32
+    },{
+      "owner": "dapppub.bp",
+      "total_votes": "770672840651871104.00000000000000000",
+      "producer_key": "EOS77edNWnugJoo48kr25EZHgGRnyRkcqq5FYyYZ2g45szN5Gsa6H",
+      "is_active": 1,
+      "url": "https://dapp.pub",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T13:16:14.500",
+      "location": 702
+    },{
+      "owner": "eosriobrazil",
+      "total_votes": "769745405858534144.00000000000000000",
+      "producer_key": "EOS62VTMkGDMWpK3ECNegVLt92UYQQMXC3uzcx5zjW64hrMCaL1rx",
+      "is_active": 1,
+      "url": "https://eosrio.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T21:59:48.000",
+      "location": 76
+    },{
+      "owner": "eoscanadacom",
+      "total_votes": "756513155218596608.00000000000000000",
+      "producer_key": "EOS7eycxAbCtKyfoJc8uRZcmt1AmArjXcz8aonLUTzahk5rHc18NJ",
+      "is_active": 1,
+      "url": "https://eoscanada.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T17:57:36.000",
+      "location": 0
+    },{
+      "owner": "eosswedenorg",
+      "total_votes": "746141631427375104.00000000000000000",
+      "producer_key": "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY",
+      "is_active": 1,
+      "url": "https://eossweden.org",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T22:36:25.000",
+      "location": 752
+    },{
+      "owner": "cypherglasss",
+      "total_votes": "739378633327489280.00000000000000000",
+      "producer_key": "EOS54cMjZnzAHdGgoyutVvZ2AtS79wUYZf8oe39DqLB99772r7MbN",
+      "is_active": 1,
+      "url": "https://www.cypherglass.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T13:50:01.500",
+      "location": 840
+    },{
+      "owner": "certikeosorg",
+      "total_votes": "688735135957873536.00000000000000000",
+      "producer_key": "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
+      "is_active": 1,
+      "url": "https://certik.org",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T21:28:29.500",
+      "location": 840
+    },{
+      "owner": "eosdacserver",
+      "total_votes": "672459643429458944.00000000000000000",
+      "producer_key": "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
+      "is_active": 1,
+      "url": "https://eosdac.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T17:59:27.000",
+      "location": 826
+    },{
+      "owner": "eoscafeblock",
+      "total_votes": "650277762251200768.00000000000000000",
+      "producer_key": "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
+      "is_active": 1,
+      "url": "https://www.eoscafeblock.com/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T03:40:08.500",
+      "location": 124
+    },{
+      "owner": "teamgreymass",
+      "total_votes": "644361094130020352.00000000000000000",
+      "producer_key": "EOS4xurP5oZk4WvMUp9neKkw94DJ2iq48GtMD5Dff3GKe6krh2ctR",
+      "is_active": 1,
+      "url": "https://greymass.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T06:30:47.000",
+      "location": 124
+    },{
+      "owner": "eostitanprod",
+      "total_votes": "625444505616801792.00000000000000000",
+      "producer_key": "EOS5z4JJRLvNasG4VRWYLRNC5TeLquNM8k5oBWWpRhpf9mgJH9e9K",
+      "is_active": 1,
+      "url": "https://eostitan.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T13:08:06.000",
+      "location": 0
+    },{
+      "owner": "eosbixinboot",
+      "total_votes": "610054427285060224.00000000000000000",
+      "producer_key": "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
+      "is_active": 1,
+      "url": "https://en.eosbixin.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T08:51:03.000",
+      "location": 7
+    },{
+      "owner": "koreainbexbp",
+      "total_votes": "582641167738796416.00000000000000000",
+      "producer_key": "EOS5etfhAtNFNzAxGQbrAHfZ5DsYheJ9B7apbvHMctdaKJ5Bti8g5",
+      "is_active": 1,
+      "url": "https://inbex.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T08:45:37.000",
+      "location": 82
+    },{
+      "owner": "libertyblock",
+      "total_votes": "563088363184113280.00000000000000000",
+      "producer_key": "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
+      "is_active": 1,
+      "url": "https://libertyblock.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T06:16:02.000",
+      "location": 124
+    },{
+      "owner": "moonxwitheos",
+      "total_votes": "559946688201577728.00000000000000000",
+      "producer_key": "EOS7N8oWEpqwQ8oetS8ENSGLMxsG6cvG12nCojgfNKdf3xe1asPiw",
+      "is_active": 1,
+      "url": "https://moonxwitheos.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T01:47:28.500",
+      "location": 356
+    },{
+      "owner": "games.eos",
+      "total_votes": "515729280552533184.00000000000000000",
+      "producer_key": "EOS8RPaLn29zeBcjFfQzS1Pb1VoyJkGY7ePATzFbfgWvf9LJkTmvC",
+      "is_active": 1,
+      "url": "",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T06:26:31.000",
+      "location": 0
+    },{
+      "owner": "cryptolions1",
+      "total_votes": "510978194472364736.00000000000000000",
+      "producer_key": "EOS5yHaUBwhpwFftNjADdVwBpCVybLPg5P3z7HpTbDGjUfpqwWSSf",
+      "is_active": 1,
+      "url": "https://cryptolions.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T20:58:27.000",
+      "location": 804
+    },{
+      "owner": "eoscybexiobp",
+      "total_votes": "462014261229973440.00000000000000000",
+      "producer_key": "EOS5dN7CQRh98Ecx4mZNgq9DWLFJALPGmaFuuG3MYCRrVfUmDTV45",
+      "is_active": 1,
+      "url": "https://eos.cybex.io/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T15:06:02.000",
+      "location": 0
+    },{
+      "owner": "alohaeosprod",
+      "total_votes": "458120499680936000.00000000000000000",
+      "producer_key": "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
+      "is_active": 1,
+      "url": "https://www.alohaeos.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T23:56:09.000",
+      "location": 840
+    },{
+      "owner": "eosfengwocom",
+      "total_votes": "449023218710197824.00000000000000000",
+      "producer_key": "EOS7qfQTT4xsPHmS8ywD9beppViEQ2TdejpLUcgXir5ofzn6qr1dW",
+      "is_active": 1,
+      "url": "https://eosfengwo.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T02:30:45.000",
+      "location": 0
+    },{
+      "owner": "eossiriussbp",
+      "total_votes": "430545530662903168.00000000000000000",
+      "producer_key": "EOS6R99FWXvh53cN6dtgNRrcJWXzvr49QM1JnSgvNJe6ZTXyjGBTe",
+      "is_active": 1,
+      "url": "https://eossirius.xyz",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T06:16:32.000",
+      "location": 250
+    },{
+      "owner": "eostribeprod",
+      "total_votes": "428256653088125696.00000000000000000",
+      "producer_key": "EOS7gD4EXA96SEQ9RQrLfbU19tLHmGPcJXSPXdkrQh4bCkUghg6QE",
+      "is_active": 1,
+      "url": "https://eostribe.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T16:30:01.500",
+      "location": 840
+    },{
+      "owner": "eosgenblockp",
+      "total_votes": "419777189859776768.00000000000000000",
+      "producer_key": "EOS6y277mUAuj1Pn3uUiqmDTME2ujhRCVQtw6pCQ8q3uFfwEVjoJ1",
+      "is_active": 1,
+      "url": "https://www.genesis-mining.com/eos",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T13:25:22.500",
+      "location": 352
+    },{
+      "owner": "oraclegogogo",
+      "total_votes": "415076369801750528.00000000000000000",
+      "producer_key": "EOS6yuqAb4eASpqJzfkPgh6sSX5Uy4vaTTJQJSXzuS6QV8Z6KSWJG",
+      "is_active": 1,
+      "url": "https://oraclechain.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T07:52:51.500",
+      "location": 156
+    },{
+      "owner": "itokenpocket",
+      "total_votes": "408408507621117952.00000000000000000",
+      "producer_key": "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
+      "is_active": 1,
+      "url": "https://www.mytokenpocket.vip",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T04:14:50.000",
+      "location": 0
+    },{
+      "owner": "eossnzpoolbp",
+      "total_votes": "404352775568406208.00000000000000000",
+      "producer_key": "EOS6gQeftj3V2yuGdxAJcNfNAw2PpsjftYK4PrmW6uob6xgYcQHKw",
+      "is_active": 1,
+      "url": "http://snzholding.com/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T17:58:28.500",
+      "location": 1
+    },{
+      "owner": "eosamsterdam",
+      "total_votes": "398540296612684736.00000000000000000",
+      "producer_key": "EOS8HDwgQnKMHAxzva9eyHsPeETv23JSQ6RRzQjJLvCsZ6b1ySgQo",
+      "is_active": 1,
+      "url": "https://eosamsterdam.net",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T09:21:56.000",
+      "location": 528
+    },{
+      "owner": "eoslambdacom",
+      "total_votes": "396109914207995904.00000000000000000",
+      "producer_key": "EOS5WU7KKVyqFPYtK2wbqvWN9mK4cvr8naqYsZ5LjEEszsmFsm7Qc",
+      "is_active": 1,
+      "url": "https://bridgepool.lambda.im",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T06:19:25.000",
+      "location": 156
+    },{
+      "owner": "blocksmithio",
+      "total_votes": "394716845283545408.00000000000000000",
+      "producer_key": "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
+      "is_active": 1,
+      "url": "https://eosblocksmith.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T02:25:03.000",
+      "location": 840
+    },{
+      "owner": "eosvolgabpru",
+      "total_votes": "381914753914366784.00000000000000000",
+      "producer_key": "EOS57GDRS9QJWBJie9yQAxvrDKw9p6wiiQ9B8Sv2uJ7WazowB4pkK",
+      "is_active": 1,
+      "url": "https://eosvolga.one",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T23:55:01.500",
+      "location": 643
+    },{
+      "owner": "eosyskoreabp",
+      "total_votes": "379039728427066688.00000000000000000",
+      "producer_key": "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
+      "is_active": 1,
+      "url": "https://eosys.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T03:49:01.000",
+      "location": 410
+    },{
+      "owner": "eosrapidprod",
+      "total_votes": "375506410217961728.00000000000000000",
+      "producer_key": "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
+      "is_active": 1,
+      "url": "http://www.eosrapid.com/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T22:08:59.500",
+      "location": 0
+    },{
+      "owner": "eosnodeonebp",
+      "total_votes": "367614760773272576.00000000000000000",
+      "producer_key": "EOS5jc4oQrKhKazEHVb1pdrhuzURDUVY4yXXv93tyZ2XdNik44VGD",
+      "is_active": 1,
+      "url": "https://eosnodeone.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T18:43:32.500",
+      "location": 7
+    },{
+      "owner": "tokenika4eos",
+      "total_votes": "367035502521575040.00000000000000000",
+      "producer_key": "EOS8Src8Nd3EoJpewmPzSDjZP8A3iLuHky4itLqWwuCjPNdCztrVL",
+      "is_active": 1,
+      "url": "https://tokenika.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T08:09:01.000",
+      "location": 616
+    },{
+      "owner": "eoszhizhutop",
+      "total_votes": "349206109469203968.00000000000000000",
+      "producer_key": "EOS5rmsDiYCtEgsEpZvcxNvLcxStufWALs4Lmfy85pnJKTdPjcpuT",
+      "is_active": 1,
+      "url": "https://eos.zhizhu.top/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T12:49:42.500",
+      "location": 0
+    },{
+      "owner": "aus1genereos",
+      "total_votes": "342632134268108864.00000000000000000",
+      "producer_key": "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
+      "is_active": 1,
+      "url": "https://www.genereos.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T00:43:41.000",
+      "location": 36
+    },{
+      "owner": "eospacificbp",
+      "total_votes": "341121883588616640.00000000000000000",
+      "producer_key": "EOS5RVMEH23hYRjhW2VoKNQCM1ooLhVgFpC38e8bWV2YzefyGZbMY",
+      "is_active": 1,
+      "url": "https://www.nodepacific.com/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T07:35:13.000",
+      "location": 0
+    },{
+      "owner": "eosisgravity",
+      "total_votes": "340896497079840000.00000000000000000",
+      "producer_key": "EOS8UFLCQ8n2PzbKFv8CU87fQKXeyNXr3fn2oMwFayEYyCpkFG3YF",
+      "is_active": 1,
+      "url": "http://eosgravity.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T07:26:25.500",
+      "location": 702
+    },{
+      "owner": "geosoneforbp",
+      "total_votes": "334677745274190912.00000000000000000",
+      "producer_key": "EOS7CjPeMYUj2Ydmw667JJNsQA5mige9YE4FVxMCT81Jst3SRVbX3",
+      "is_active": 1,
+      "url": "https://www.geos.one",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T16:41:11.000",
+      "location": 0
+    },{
+      "owner": "hkeoshkeosbp",
+      "total_votes": "333599981141496576.00000000000000000",
+      "producer_key": "EOS8SXELcUbgtBTmi7of9CJTUc6eGPw68G8ph7nLD7wpHkEosEShs",
+      "is_active": 1,
+      "url": "https://www.hkeos.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T17:49:53.000",
+      "location": 344
+    },{
+      "owner": "eosstorebest",
+      "total_votes": "324080641255902848.00000000000000000",
+      "producer_key": "EOS857vKqpcN7Tt7zCab47CCpjvGcaKbf7MpTwN3ktGsDToynSuTA",
+      "is_active": 1,
+      "url": "https://www.eosstore.co",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T17:01:15.000",
+      "location": 156
+    },{
+      "owner": "eosdublinwow",
+      "total_votes": "317655458887796672.00000000000000000",
+      "producer_key": "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
+      "is_active": 1,
+      "url": "https://www.eosdublin.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T02:43:39.000",
+      "location": 372
+    },{
+      "owner": "eosplayworld",
+      "total_votes": "313621641821215872.00000000000000000",
+      "producer_key": "EOS8hzGgYc4am5twGS84kopk5uz4vChhHrCDRV4H6FPtREehzKvTk",
+      "is_active": 1,
+      "url": "http://eosplay.world",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T05:19:11.500",
+      "location": 0
+    },{
+      "owner": "eosnairobike",
+      "total_votes": "313453470707281920.00000000000000000",
+      "producer_key": "EOS8AUQK2XQo9StudQqDFn1riSHKaDwXiUjDPNGtDad6hLd2PnDGc",
+      "is_active": 1,
+      "url": "https://www.eosnairobi.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T19:39:17.000",
+      "location": 404
+    },{
+      "owner": "paytomateosp",
+      "total_votes": "307146342490168000.00000000000000000",
+      "producer_key": "EOS62DzQLxR9ZbHvUejEiY5e7PRzD1XnU74D14ZfU6bCgiGfiKwJJ",
+      "is_active": 1,
+      "url": "https://paytomat.com/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T04:00:02.000",
+      "location": 232
+    },{
+      "owner": "sheos21sheos",
+      "total_votes": "305494468863612032.00000000000000000",
+      "producer_key": "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
+      "is_active": 1,
+      "url": "https://sheos.org",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T14:48:02.500",
+      "location": 724
+    },{
+      "owner": "eoscleanerbp",
+      "total_votes": "305227887548903296.00000000000000000",
+      "producer_key": "EOS78TFJoRhhQBbAwvdknietfteVYt4GW8bdKSPnw3t3eWHfLrKG4",
+      "is_active": 1,
+      "url": "https://eoscleaner.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T08:26:29.000",
+      "location": 392
+    },{
+      "owner": "superoneiobp",
+      "total_votes": "305132715825636928.00000000000000000",
+      "producer_key": "EOS6jtExp2sGpxMY8jFP1aBhDkdyHvuMS7EAVgDWQ7kaeMtdLH34U",
+      "is_active": 1,
+      "url": "https://superone.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T15:37:00.500",
+      "location": 86
+    },{
+      "owner": "eosiodetroit",
+      "total_votes": "302112272887082112.00000000000000000",
+      "producer_key": "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
+      "is_active": 1,
+      "url": "https://eosdetroit.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T16:27:02.500",
+      "location": 840
+    },{
+      "owner": "ecoboost1111",
+      "total_votes": "297133139982024512.00000000000000000",
+      "producer_key": "EOS5g9D7uJuEwNzby2uAu1qVxLishXJm1T2odBPxdU3UzP7xYwVA5",
+      "is_active": 1,
+      "url": "https://ecoboost.app/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T08:16:59.000",
+      "location": 0
+    },{
+      "owner": "eosmatrixeos",
+      "total_votes": "295818637081411264.00000000000000000",
+      "producer_key": "EOS7bXYArQpZTji97zpQK8CvUyef3fanEQuWHTSdiTNfZeacCi3wn",
+      "is_active": 1,
+      "url": "https://eosmatrix.co",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T05:25:14.500",
+      "location": 356
+    },{
+      "owner": "stakingeosbp",
+      "total_votes": "292003334649327104.00000000000000000",
+      "producer_key": "EOS5qRrHJsVLU1ZvG6A3Em35n9hZzt8JBCDaBScz3EodTbgejMUR9",
+      "is_active": 1,
+      "url": "https://www.stakingbp.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T12:21:12.500",
+      "location": 392
+    },{
+      "owner": "moreisfuture",
+      "total_votes": "286965428297270720.00000000000000000",
+      "producer_key": "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
+      "is_active": 1,
+      "url": "https://more.top",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T20:41:46.000",
+      "location": 156
+    },{
+      "owner": "eoshenzhenio",
+      "total_votes": "284542336138607136.00000000000000000",
+      "producer_key": "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
+      "is_active": 1,
+      "url": "https://eoshenzhen.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-12T14:07:29.500",
+      "location": 156
+    },{
+      "owner": "eosphereiobp",
+      "total_votes": "282903099880910048.00000000000000000",
+      "producer_key": "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
+      "is_active": 1,
+      "url": "https://www.eosphere.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T08:06:03.000",
+      "location": 36
+    },{
+      "owner": "newdex.bp",
+      "total_votes": "277585150179595232.00000000000000000",
+      "producer_key": "EOS7eygG47yodHQpMTFSzutDci8EAXQC9H5B3NWGZE8V7HjBybaC5",
+      "is_active": 1,
+      "url": "https://newdex.one",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T01:01:02.500",
+      "location": 0
+    },{
+      "owner": "eosvenezuela",
+      "total_votes": "274904018865407264.00000000000000000",
+      "producer_key": "EOS7pUMws312EjWwCcyMvV8hJiN5DFePdxsCknTJsrthp1an2AZXu",
+      "is_active": 1,
+      "url": "https://eosvenezuela.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T20:00:03.000",
+      "location": 0
+    },{
+      "owner": "eosflareiobp",
+      "total_votes": "274886185808559264.00000000000000000",
+      "producer_key": "EOS6FLARENUBrQSqSRWk4BZG6oyUcepnTb1T6j3LgrExpJaL4gk89",
+      "is_active": 1,
+      "url": "https://eosflare.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T00:57:03.500",
+      "location": 840
+    },{
+      "owner": "jrrcryptoeos",
+      "total_votes": "273742416175045728.00000000000000000",
+      "producer_key": "EOS7JR4vL3P2qgPwfMagZDqAtRLjB38qQCe6xw87gefVV73x85bsw",
+      "is_active": 1,
+      "url": "http://www.eosjrr.io/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T10:41:33.000",
+      "location": 0
+    },{
+      "owner": "eosmotioneos",
+      "total_votes": "272967982601629568.00000000000000000",
+      "producer_key": "EOS5JEphcJgHbvVqnKwz93Buq5SUCkkZkgwdiTbXfgF8steHpJuj4",
+      "is_active": 1,
+      "url": "https://project.motion.one",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T15:29:20.500",
+      "location": 0
+    },{
+      "owner": "eospaceioeos",
+      "total_votes": "266352449219041856.00000000000000000",
+      "producer_key": "EOS7dZPHgFJXwHz84JWf5QgybxLpp95cxYE5c4yngsrSqgVFczaPs",
+      "is_active": 1,
+      "url": "https://eospacex.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T00:29:23.000",
+      "location": 156
+    },{
+      "owner": "eosmetaliobp",
+      "total_votes": "266118907131030112.00000000000000000",
+      "producer_key": "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
+      "is_active": 1,
+      "url": "https://eosmetal.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T21:23:03.500",
+      "location": 352
+    },{
+      "owner": "eosunion1111",
+      "total_votes": "264615917734037824.00000000000000000",
+      "producer_key": "EOS5YrPTWCKNHHLuntq13Q9X6M2CFCNGb21GqrcjUexqBBjxpCG7H",
+      "is_active": 1,
+      "url": "http://eosunion.io/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-14T16:44:48.000",
+      "location": 0
+    },{
+      "owner": "blockmatrix1",
+      "total_votes": "242253975322156704.00000000000000000",
+      "producer_key": "EOS6oNSm6QKnMBzJDHiA32KsEjSgKKt1nGdPYfc2wZU34HA9GjP9q",
+      "is_active": 1,
+      "url": "https://blockmatrix.network",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-06-13T20:42:02.000",
+      "location": 826
+    },{
+      "owner": "eosantpoolbp",
+      "total_votes": "235671851334617088.00000000000000000",
+      "producer_key": "EOS6F9hDeGD3unoq67N9pmLVXKvsLTqi7wx3Ly9kxq4fZB3qLTjcs",
+      "is_active": 1,
+      "url": "https://www.eosantpool.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-05-24T16:05:02.500",
+      "location": 702
+    },{
+      "owner": "chainriftxxx",
+      "total_votes": "199382300302846912.00000000000000000",
+      "producer_key": "EOS7RQ6fJTDzZTSoL6tmzXwfs9FLZTUPWDe6pNAhqqWHvcAxG7qdN",
+      "is_active": 1,
+      "url": "https://eos.chainrift.com",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-03-07T16:49:44.500",
+      "location": 705
+    },{
+      "owner": "eoseouldotio",
+      "total_votes": "162957815885180768.00000000000000000",
+      "producer_key": "EOS6SSA4gYCSZ3q9NWpxGsYDv5MWjSwKseyq25RRZexwj8EM6YHDa",
+      "is_active": 1,
+      "url": "https://www.eoseoul.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-05-08T08:46:17.500",
+      "location": 410
+    },{
+      "owner": "eosfishrocks",
+      "total_votes": "149571126133840832.00000000000000000",
+      "producer_key": "EOS4xAhqjLs5fsCzw7QsGYJtRDVo3t2xRFCHd7amGEWwhjSb5DPZT",
+      "is_active": 1,
+      "url": "https://bp.fish",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-05-17T09:01:02.500",
+      "location": 84
+    },{
+      "owner": "eosvibesbloc",
+      "total_votes": "142896755729257776.00000000000000000",
+      "producer_key": "EOS5wjoLzkppkupmajDM59StKoFSR9AZugfnRSkuBZKDgTrBHP6ZZ",
+      "is_active": 1,
+      "url": "https://eosvibes.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2018-08-17T10:52:57.000",
+      "location": 250
+    },{
+      "owner": "acroeos12345",
+      "total_votes": "139695522152669328.00000000000000000",
+      "producer_key": "EOS56PyKoHXwyRkwDzr2uNhgDRioPoq5TwdN8Pm2hQGko7jrup2W5",
+      "is_active": 1,
+      "url": "https://acroeos.one",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2019-03-07T13:44:02.000",
+      "location": 410
+    },{
+      "owner": "eosukblocpro",
+      "total_votes": "115846647836077760.00000000000000000",
+      "producer_key": "EOS7SQTW7Mz3zQwTrq1KTeVzWx7bHjqR3HffTCCRxRRzvrJFS2qjs",
+      "is_active": 1,
+      "url": "https://eosuk.io",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2018-12-02T23:51:26.500",
+      "location": 826
+    },{
+      "owner": "eoscandyone1",
+      "total_votes": "112168798297489488.00000000000000000",
+      "producer_key": "EOS8SZrDZ6s1H9wrJrzeUqqm4QFXFgUZ9515osJsAbsgth4RknaeP",
+      "is_active": 1,
+      "url": "https://candy.one/",
+      "unpaid_blocks": 0,
+      "last_claim_time": "2018-12-10T22:15:02.500",
+      "location": 0
+    }
+  ],
+  "total_producer_vote_weight": "55356420970553966592.00000000000000000",
+  "more": "eoswinwinwin"
+}

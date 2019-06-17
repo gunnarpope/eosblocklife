@@ -30,30 +30,13 @@ for i in range(len(bps)):
 	rank += 1
 
 
-
-# top21bp = bps[:21]
-top21bp = bps[:2] # REMOVE LATER, FOR TESTING ONLY
-print(len(top21bp))
-print(top21bp[:5])
-
-bot21bp = bps[21:]
-print(len(bot21bp))
-print(bot21bp[:5])
-
-# get the url for each bp
-urls = [ [x[0], x[2]] for x in top21bp]
-print(urls)
-
-# get the gps coordinates for each bp
-bp_url = top21bp[0][2]
-print(bp_url)
-
 bp_list = []
 bp_error= []
 bpjson  = {}
-for bp in top21bp:
+
+for bp in bps:
 	bpname = bp[0]
-	rank = bp[4]
+	rank = bp[-1]
 	lat, lon, country, city = get_location(bp[2])
 	if city != 'NULL':
 		print(bpname, rank, lat, lon)	
@@ -66,25 +49,5 @@ for bp in top21bp:
 		bpjson[bpname] = {'rank': rank, 'lat':'NULL', 'lon':'NULL'}
 
 
-with open('bp_rank_location.json','w') as f:
+with open('bp_gps_locations.json','w') as f:
 	f.write(json.dumps(bpjson))
-
-# 
-# lats = [bp[2] for bp in bp_list]
-# lons = [bp[3] for bp in bp_list]
-# 
-# from mpl_toolkits.basemap import Basemap
-# import matplotlib.pyplot as plt 
-# 
-# m = Basemap(projection='robin',lon_0=0,resolution='c')
-# m.bluemarble()
-# 
-# 
-# markersize = 15
-# x, y = m(lons,lats)
-# m.scatter(x,y,markersize,marker='o',color='r')
-# 
-# 
-# plt.show()
-# 
-# 

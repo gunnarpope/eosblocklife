@@ -52,7 +52,7 @@ def get_location(acct_url):
 		country = 	api['org']['location']['country']
 		city 	=  	api['org']['location']['name']
 	except:
- 		lat, lon, country, city = (0,0,0,0)		
+ 		lat, lon, country, city = (0,0,'NULL','NULL')		
 
 	return lat, lon, country, city
 

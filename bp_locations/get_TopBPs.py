@@ -27,7 +27,7 @@ for i in range(len(bps)):
 	bps[i].append(rank) 
 	rank += 1
 
-top21bp = bps[:20]
+top21bp = bps[:21]
 print(len(top21bp))
 print(top21bp[:5])
 
@@ -43,8 +43,19 @@ print(urls)
 bp_url = top21bp[0][2]
 print(bp_url)
 
+bp_list = []
+bp_error= []
 for bp in top21bp:
-	pprint( get_location(bp[2]))
+	bpname = bp[0]
+	rank = bp[4]
+	lat, lon, country, city = get_location(bp[2])
+	if city != 'NULL':
+		print(bpname, rank, lat, lon)	
+		bp_list.append((bpname, rank, lat, lon))
+	else:
+		print(bpname, rank, 'NULL','NULL')
+		bp_error.append(bpname)
+
 
 
 # 

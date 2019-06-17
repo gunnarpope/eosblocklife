@@ -1,14 +1,52 @@
 import os
+import requests
+import json
+from pprint import pprint
 
-output = str(os.system('cleos -u https://api.eossweden.org system listproducers -l 21 > bp_list.txt'))
+from get_api import *
+
+# output = str(os.system('cleos -u https://api.eossweden.org system listproducers -l 100 > bp_list.txt'))
 
 with open('bp_list.txt','r') as f:
 	data = f.readlines()
 
+# create a row entry for each BP
 bps = [ row.strip().split() for row in data]
 
-for bp in bps[:3]:
+header = bps[0]
+bps    = bps[1:] # strip the header
+
+
+# print the top 21 BPs
+for bp in bps[:21]:
 	print(bp)
+
+rank = 1
+for i in range(len(bps)):
+	# bp[i][3] = float(bp[i][3])
+	bps[i].append(rank) 
+	rank += 1
+
+top21bp = bps[:20]
+print(len(top21bp))
+print(top21bp[:5])
+
+bot21bp = bps[21:]
+print(len(bot21bp))
+print(bot21bp[:5])
+
+# get the url for each bp
+urls = [ [x[0], x[2]] for x in top21bp]
+print(urls)
+
+# get the gps coordinates for each bp
+bp_url = top21bp[0][2]
+print(bp_url)
+
+for bp in top21bp:
+	pprint( get_location(bp[2]))
+
+
 # 
 # rows = bps.split()
 # print(rows[:3])

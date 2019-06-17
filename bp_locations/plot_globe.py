@@ -10,9 +10,19 @@ import matplotlib.pyplot as plt
 # set resolution=None to skip processing of boundary datasets.
 # m = Basemap(width=12000000,height=9000000,projection='lcc',
 #            resolution=None,lat_1=45.,lat_2=55,lat_0=50,lon_0=-107.)
-m = Basemap(projection='merc',llcrnrlat=-80,urcrnrlat=80,\
-            llcrnrlon=-180,urcrnrlon=180,lat_ts=20,resolution='c')
+
+# m = Basemap(projection='merc',llcrnrlat=-80,urcrnrlat=80,\
+#            llcrnrlon=-180,urcrnrlon=180,lat_ts=20,resolution='c')
+m = Basemap(projection='robin',lon_0=0,resolution='c')
 m.bluemarble()
+
+lons = -72
+lats = 43.7
+markersize = 15
+x, y = m(lons,lats)
+m.scatter(x,y,markersize,marker='o',color='r')
+
+
 plt.show()
 
 

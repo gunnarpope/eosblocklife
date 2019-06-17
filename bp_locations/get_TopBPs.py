@@ -45,6 +45,7 @@ print(bp_url)
 
 bp_list = []
 bp_error= []
+
 for bp in top21bp:
 	bpname = bp[0]
 	rank = bp[4]
@@ -55,6 +56,28 @@ for bp in top21bp:
 	else:
 		print(bpname, rank, 'NULL','NULL')
 		bp_error.append(bpname)
+
+
+with open('bp_rank_location.txt','w') as f:
+	f.write(str(bp_list))	
+
+lats = [bp[2] for bp in bp_list]
+lons = [bp[3] for bp in bp_list]
+
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt 
+
+m = Basemap(projection='robin',lon_0=0,resolution='c')
+m.bluemarble()
+
+
+markersize = 15
+x, y = m(lons,lats)
+m.scatter(x,y,markersize,marker='o',color='r')
+
+
+plt.show()
+
 
 
 

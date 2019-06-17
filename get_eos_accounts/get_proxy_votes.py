@@ -19,7 +19,7 @@ accountname = 'cryptoblueos'
 proxyname   = 'brockpierce1'
 accountname = sys.argv[1]
 filename    = sys.argv[2]
-url = "https://api.eossweden.org/v1/chain/get_account"
+url = "https://api.eossweden.org:8080/v1/chain/get_account"
  
 headers = {
    'accept': "application/json",

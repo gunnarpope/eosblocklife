@@ -41,7 +41,7 @@ x, y = m(lons,lats)
 m.scatter(x,y,markersize,marker='o',color='g',label='BP rank >21')
 plt.title('EOS Block Producers by Location')
 plt.legend()
-plt.savefig('fig/bp_gps_locations.png')
+plt.savefig('fig/bp_gps_locations_top100.png')
 plt.show()
 
 
